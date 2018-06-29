@@ -10,7 +10,7 @@
 
   * Psycopg is the most popular PostgreSQL adapter for the Python programming language
 
-* **pip install mysqlalchemy**
+* **pip install SQLAlchemy**
 
     * SQLAlchemy is the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL
 
