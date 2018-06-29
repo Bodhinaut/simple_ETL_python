@@ -16,4 +16,4 @@
 
 ---
 
-still need to add the postgresql 
+still need to add the postgresql, following online tutorial for the entirity of this process
