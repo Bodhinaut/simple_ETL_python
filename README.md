@@ -62,3 +62,5 @@ The successive loads and transformations must be scheduled and processed in a sp
 ### Evolution of the Data Warehouse
 
 As the data warehouse is a living IT system, sources and targets might change. Those changes must be maintained and tracked through the lifespan of the system without overwriting or deleting the old ETL process flow information. To build and keep a level of trust about the information in the warehouse, the process flow of each individual record in the warehouse can be reconstructed at any point in time in the future in an ideal case.
+
+---
